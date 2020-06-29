@@ -1,0 +1,5 @@
+101:priya:19:bangalore 
+102:Prem:20:chennai 
+103:anu:18:chennai 
+104:john:21:bangalore 
+105:amit:20:mumbai 
